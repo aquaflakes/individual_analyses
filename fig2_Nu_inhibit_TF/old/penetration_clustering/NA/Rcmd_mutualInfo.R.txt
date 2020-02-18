@@ -1,0 +1,1 @@
+Rscript mutualInfo.R /Volumes/Nutcase_DataZhu/seqFiles2/FJ4.4CAP2_PE/allreads/FJ4.4_PE_147/dual_trim/2_Trim_adaptor_kmer/Trulig147v1IIIFJ4-4-CAP2-L02-TF349-MLLT7IIIc4_S650_L002_R1_001.peared_trimmed.fq.gz /Volumes/Nutcase_DataZhu/seqFiles2/FJ4.4CAP2_PE/analysis/mutualInfo_allpos/147c4/

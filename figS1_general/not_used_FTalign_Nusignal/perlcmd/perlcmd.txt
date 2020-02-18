@@ -1,0 +1,8 @@
+>> launching folder
+/wrk/data/fangjie
+
+>> ORIGINAL CMD
+NuselFT_147align_v1.pl -f ~/Nut_zhuData/seqFiles2/FJ6.1Methyl_PE/allreads/FJ6.1_OriMe1_PE/dual_trim/2_Trim_adaptor_kmer/Trulig147v1IIIFJ6-1-OriMe1-B02-1xCAGOct32ngIIIc5-Bq1-GATCCACG_S14_L003_R1_001.peared_trimmed.fq.gz -o /wrk/data/fangjie//Nut_zhuData/Analysis/Analysis2/Nusel/FTalign_Nusignal/ -k 2
+
+>> META CHAR EXPANDED
+NuselFT_147align_v1.pl -f /wrk/data/fangjie//Nut_zhuData/seqFiles2/FJ6.1Methyl_PE/allreads/FJ6.1_OriMe1_PE/dual_trim/2_Trim_adaptor_kmer/Trulig147v1IIIFJ6-1-OriMe1-B02-1xCAGOct32ngIIIc5-Bq1-GATCCACG_S14_L003_R1_001.peared_trimmed.fq.gz -o /wrk/data/fangjie//Nut_zhuData/Analysis/Analysis2/Nusel/FTalign_Nusignal/ -k 2

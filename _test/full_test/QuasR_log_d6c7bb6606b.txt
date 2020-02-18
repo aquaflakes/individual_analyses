@@ -1,0 +1,8 @@
+[1] "Executing bowtie on 130-229-33-41.mbb.ki.se using 1 cores. Parameters:"
+[1] "'/Users/zhu/Desktop/Nucleosome_manuscript/plotting_Scripts/test/full_test/extdata/NC_001422.1.fa.Rbowtie/bowtieIndex' '/var/folders/5g/m5dl8gh97x99x909m37lyc6c0000gq/T//Rtmp2WfY0q/chip_1_1_d6c1510d82a.bamdd817fcfc38fastq' -m 1 --best --strata --phred33-quals -S -p 1 '/var/folders/5g/m5dl8gh97x99x909m37lyc6c0000gq/T//Rtmp2WfY0q/chip_1_1.fq.bz2dd86212ccd5.sam'"
+[1] "Converting sam file to sorted bam file on 130-229-33-41.mbb.ki.se : /var/folders/5g/m5dl8gh97x99x909m37lyc6c0000gq/T//Rtmp2WfY0q/chip_1_1.fq.bz2dd86212ccd5.sam"
+[1] "Auxiliary alignments 1 for sample 1 (Sample1) have been successfully created on 130-229-33-41.mbb.ki.se"
+[1] "Executing bowtie on 130-229-33-41.mbb.ki.se using 1 cores. Parameters:"
+[1] "'/Users/zhu/Desktop/Nucleosome_manuscript/plotting_Scripts/test/full_test/extdata/NC_001422.1.fa.Rbowtie/bowtieIndex' '/var/folders/5g/m5dl8gh97x99x909m37lyc6c0000gq/T//Rtmp2WfY0q/chip_2_1_d6c4dfb834.bamdd82d0f94b7fastq' -m 1 --best --strata --phred33-quals -S -p 1 '/var/folders/5g/m5dl8gh97x99x909m37lyc6c0000gq/T//Rtmp2WfY0q/chip_2_1.fq.bz2dd859ec917d.sam'"
+[1] "Converting sam file to sorted bam file on 130-229-33-41.mbb.ki.se : /var/folders/5g/m5dl8gh97x99x909m37lyc6c0000gq/T//Rtmp2WfY0q/chip_2_1.fq.bz2dd859ec917d.sam"
+[1] "Auxiliary alignments 1 for sample 2 (Sample2) have been successfully created on 130-229-33-41.mbb.ki.se"

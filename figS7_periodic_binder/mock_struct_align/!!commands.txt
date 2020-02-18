@@ -1,0 +1,6 @@
+# PITX 
+in phase		match #1:83-88.C@c1,c2,c3,c4:71-76.B@c1,c2,c3,c4  #0:-38--33.I@c1,c2,c3,c4:33-38.J@c1,c2,c3,c4
+out of phase	match #1:83-88.C@c1,c2,c3,c4:71-76.B@c1,c2,c3,c4  #0:-33--28.I@c1,c2,c3,c4:28-33.J@c1,c2,c3,c4  
+# EOMES
+in phase		match  #1:13-18.D@c1,c2,c3,c4:6-11.C@c1,c2,c3,c4  #0:-33--28.I@c1,c2,c3,c4:28-33.J@c1,c2,c3,c4 
+out of phase	match  #1:13-18.D@c1,c2,c3,c4:6-11.C@c1,c2,c3,c4  #0:-38--33.I@c1,c2,c3,c4:33-38.J@c1,c2,c3,c4

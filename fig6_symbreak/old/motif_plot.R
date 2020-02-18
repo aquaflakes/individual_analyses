@@ -1,0 +1,5 @@
+library(fjComm)
+setwd(get_scriptpath())
+pdf("ELF2_motif.pdf",height = 4,width = 10)
+fjComm::plotMotif_pfmFile("ELF2_TGCAAG20NAAC_AL_AACCCGGAAGTN_m2_c2_short.pfm",ic.scale = T)
+dev.off()
